@@ -1,1 +1,3 @@
 .idea/
+taskapi/__pycache__/*.*
+torretest/__pycache__/*.*
