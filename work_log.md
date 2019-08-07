@@ -6,7 +6,7 @@
     * user_tasks
 5. Migrate database
 6. Register models in admin
-7. Setup rest
+7. Rest framekork setup
 8. Create serializers
 9. Create views
 10. Configure urls
