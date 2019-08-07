@@ -13,4 +13,4 @@ class UserSerializer(serializers.HyperlinkedModelSerializer):
 class UserTasksSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = UserTasks
-        fields = ('description', 'state')
+        fields = ('description', 'state', 'user')
