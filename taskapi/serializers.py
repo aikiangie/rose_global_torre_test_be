@@ -7,10 +7,10 @@ from .models import UserTasks
 class UserSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = User
-        fields = ('name', 'username')
+        fields = ('id', 'name', 'username')
 
 
 class UserTasksSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = UserTasks
-        fields = ('description', 'state', 'user')
+        fields = ('id', 'description', 'state', 'user')
