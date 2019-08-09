@@ -12,7 +12,7 @@ class User(models.Model):
 class UserTasks(models.Model):
     TASK_STATES = (
         ('TO_DO', 'To do'),
-        ('L', 'Large'),
+        ('DONE', 'Done'),
     )
     description = models.CharField(max_length=300, blank=False)
     state = models.CharField(max_length=300, blank=False, choices=TASK_STATES)

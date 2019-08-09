@@ -1,3 +1,4 @@
 .idea/
 taskapi/__pycache__/*.*
 torretest/__pycache__/*.*
+taskapi/migrations/__pycache__/*.*
