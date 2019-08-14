@@ -14,3 +14,14 @@ class UserViewSet(viewsets.ModelViewSet):
 class UserTasksViewSet(viewsets.ModelViewSet):
     queryset = UserTasks.objects.all().order_by('description')
     serializer_class = UserTasksSerializer
+
+    def get_queryset(self):
+        """
+        Optionally restricts the returned tasks to a given user,
+        by filtering against a `username` query parameter in the URL.
+        """
+        queryset = UserTasks.objects.all()
+        userId = self.request.query_params.get('userId', None)
+        if userId is not None:
+            queryset = queryset.filter(user=userId)
+        return queryset
