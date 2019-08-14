@@ -35,18 +35,16 @@ This is the project for the requerid API REST endpoints.
 * User and userTask models implemented
 * Browsable interface
 * Admin interface
-
-#### V 1.1
 * Filtering options
 
-#### V 1.2
+#### V 1.1
 * Autentication
 
-#### V 1.3
+#### V 1.2
 * Unit tests
 
-#### V 1.4
+#### V 1.3
 * Swagger documentation
 
-#### V 1.5
+#### V 1.4
 * Parametric model for task status
