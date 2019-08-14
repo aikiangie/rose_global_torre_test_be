@@ -14,7 +14,7 @@ This is the project for the requerid API REST endpoints.
 ### Installation guide
 
 1. Clone the project
-2. Execute python manage.py runserver to run the project
+2. Execute *python manage.py runserver* to run the project
 3. By default, the application will be available in http://127.0.0.1:8000/
 4. You will have the Django Rest Framework browsable ui (More info in https://www.django-rest-framework.org/topics/browsable-api/). 
 
