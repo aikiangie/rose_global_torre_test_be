@@ -1,7 +1,9 @@
 # Rose Global - Backend
 ## Technical Test Full-Stack Engineering
 
-At Rose Global we are creating a new MVP, this new platform must be scalable and flexible to support our continuous growth. We want to implement a micro-service architecture
+At Rose Global we are creating a new MVP. This new platform must be scalable and flexible to support our continuous growth. We want to implement a micro-service architecture:
+
+![Figure 0](Torre%20test%20arch.png "Figure ")
 
 This is the project for the requerid API REST endpoints.
 
@@ -35,18 +37,16 @@ This is the project for the requerid API REST endpoints.
 * User and userTask models implemented
 * Browsable interface
 * Admin interface
-
-#### V 1.1
 * Filtering options
 
-#### V 1.2
+#### V 1.1
 * Autentication
 
-#### V 1.3
+#### V 1.2
 * Unit tests
 
-#### V 1.4
+#### V 1.3
 * Swagger documentation
 
-#### V 1.5
+#### V 1.4
 * Parametric model for task status
