@@ -47,3 +47,6 @@ This is the project for the requerid API REST endpoints.
 
 #### V 1.4
 * Swagger documentation
+
+#### V 1.5
+* Parametric model for task status
