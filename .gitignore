@@ -2,3 +2,4 @@
 taskapi/__pycache__/*.*
 torretest/__pycache__/*.*
 taskapi/migrations/__pycache__/*.*
+db.sqlite3
