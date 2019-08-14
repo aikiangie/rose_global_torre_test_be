@@ -31,19 +31,19 @@ This is the project for the requerid API REST endpoints.
 
 ### Roadmap
 
-## V 1.0
+#### V 1.0
 * User and userTask models implemented
 * Browsable interface
 * Admin interface
 
-## V 1.1
+#### V 1.1
 * Filtering options
 
-## V 1.2
+#### V 1.2
 * Autentication
 
-## V 1.3
+#### V 1.3
 * Unit tests
 
-## V 1.4
+#### V 1.4
 * swagger documentation
