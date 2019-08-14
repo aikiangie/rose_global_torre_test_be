@@ -25,7 +25,7 @@ This is the project for the requerid API REST endpoints.
 
 ![Figure 2](static/doc/images/be_api_002.png "Figure 2")
 
-1. Use it for testing crud actions over the data in * Taskapi * section
+1. Use it for testing crud actions over the data in *Taskapi* section
 
-![Figure 3](static/doc/images/be_api_002.png "Figure 3")
+![Figure 3](static/doc/images/be_api_003.png "Figure 3")
 
