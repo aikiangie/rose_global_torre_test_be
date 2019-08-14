@@ -46,4 +46,4 @@ This is the project for the requerid API REST endpoints.
 * Unit tests
 
 #### V 1.4
-* swagger documentation
+* Swagger documentation
