@@ -13,5 +13,5 @@ This is the project for the requerid API REST endpoints.
 
 ### How to run
 
-# Clone the project
-# Execute python manage.py runserver to run the project
+1. Clone the project
+1. Execute python manage.py runserver to run the project
