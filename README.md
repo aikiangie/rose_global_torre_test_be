@@ -40,7 +40,7 @@ This is the project for the requerid API REST endpoints.
 * Filtering options
 
 #### V 1.1
-* Autentication
+* Authentication
 
 #### V 1.2
 * Unit tests
