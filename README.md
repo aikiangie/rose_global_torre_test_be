@@ -1,13 +1,17 @@
-# rose_global_torre_test_be
-Backend for Rose Global MVP. Technical Test Full-Stack Engineering for Torre.
+# Rose Global - Backend
+## Technical Test Full-Stack Engineering
 
-Buited using django framework.
-Requirements: https://github.com/aikiangie/rose_global_torre_test_be/blob/master/requirements.txt
+At Rose Global we are creating a new MVP, this new platform must be scalable and flexible to support our continuous growth. We want to implement a micro-service architecture
 
-Instuctions:
+This is the project for the requerid API REST endpoints.
 
-1. Install python
-2. Instal django
-3. Instal restframework
-4. Run service
+### Requirements
 
+* Python version 3.6
+* Django version 2.2.4
+* Django rest framework version 3.10
+
+### How to run
+
+1. Clone the project
+1. Execute python manage.py runserver to run the project
