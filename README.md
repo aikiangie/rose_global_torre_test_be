@@ -21,7 +21,7 @@ This is the project for the requerid API REST endpoints.
 ![Figure 1](static/doc/images/be_api_001.png "Figure 1")
 
 1. There are the two available end points: user and userTask. Click any of those links to test POST and GET methods. 
-1. If needed, you also have the Django Admin interface in /admin (More info in ).Login with user torretest and password 1234567890.
+1. If needed, you also have the Django Admin interface in http://127.0.0.1:8000/admin (More info in ).Login with user torretest and password 1234567890.
 
 ![Figure 2](static/doc/images/be_api_002.png "Figure 2")
 
